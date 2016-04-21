@@ -1,7 +1,7 @@
 /* eslint-env mocha */
 
 import { Meteor } from 'meteor/meteor';
-import { Factory } from 'meteor/factory';
+import { Factory } from 'meteor/dburles:factory';
 import { PublicationCollector } from 'meteor/publication-collector';
 import { chai, assert } from 'meteor/practicalmeteor:chai';
 import { Random } from 'meteor/random';

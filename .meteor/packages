@@ -36,7 +36,7 @@ tap:i18n
 accounts-password
 
 # mobile
-crosswalk 
+crosswalk
 mobile-experience
 chriswessels:hammer
 
@@ -51,7 +51,7 @@ simple:rest-accounts-password
 simple:rest
 
 # testing
-factory
+dburles:factory
 publication-collector
 stub-collections
 xolvio:cleaner
